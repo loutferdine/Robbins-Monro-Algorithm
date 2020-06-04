@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stochastic", "Stochastic\Stochastic.csproj", "{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExcelAddIn", "InterfaceExcelAddIn\InterfaceExcelAddIn.csproj", "{91D9A1A1-6391-4098-8FA1-CE62B4435A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Debug|x86.ActiveCfg = Debug|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Debug|x86.Build.0 = Debug|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Release|Any CPU.ActiveCfg = Release|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Release|x86.ActiveCfg = Release|x86
+		{D23E472A-E2C4-4D89-B8A6-FAAF1089455B}.Release|x86.Build.0 = Release|x86
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{91D9A1A1-6391-4098-8FA1-CE62B4435A14}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB4A818C-0E2C-4672-8DD9-4BED430DC6A9}
+	EndGlobalSection
+EndGlobal
