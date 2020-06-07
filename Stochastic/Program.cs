@@ -16,7 +16,6 @@ using Stochastic.PricerFormulesExacte;
  * Pour la partie intégration des objets sous excel il suffit de générer le projet InterfaceExcelAddIn ***********
  * Et faire ajouter l'automation correpondant dans le fichier excel, l'option macro complémentaire de excel,  ****
  * le serveurs Automation vous trouver le dll 'InterfaceExcelAddIn.Implementer' générer par le projet  ***********
- * Cette partie sera expliquer le jour de soutenance avec une simulation sous Excel                    ***********
  ** **************************************************************************************************************/
 
 namespace Stochastic
